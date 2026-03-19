@@ -6,12 +6,12 @@ Software Chosen: Python
 
 ---
 
-## 📌 Project Description
+##  Project Description
 This project analyzes Python as an open-source software, including its origin, license, Linux footprint, and ecosystem. It also demonstrates practical Linux skills using shell scripting.
 
 ---
 
-## 🖥️ Scripts Overview
+##  Scripts Overview
 
 ### Script 1: System Identity Report
 Displays system information such as kernel version, user, uptime, date, and Linux distribution.
@@ -30,7 +30,7 @@ Generates a personalized open-source philosophy statement based on user input.
 
 ---
 
-## ⚙️ How to Run the Scripts
+##  How to Run the Scripts
 
 1. Open terminal  
 2. Navigate to scripts folder:
@@ -40,7 +40,7 @@ Generates a personalized open-source philosophy statement based on user input.
 
 ---
 
-### ▶ Run Scripts
+###  Run Scripts
 ./script1.sh
 ./script2.sh
 ./script3.sh
@@ -48,7 +48,7 @@ Generates a personalized open-source philosophy statement based on user input.
 ./script5.sh
 ---
 
-## 📌 Requirements
+##  Requirements
 - Linux system (Ubuntu recommended)
 - Bash shell
 - Python3 installed
